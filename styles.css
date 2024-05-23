@@ -1,0 +1,51 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: Tahoma, sans-serif;
+}
+
+header h1, p{
+  text-align: center;
+  max-width:100%;
+  margin: 10px auto;
+}
+
+header h1 {
+  padding-top: 25px;
+  color: #0b3d91;
+  
+}
+
+
+#img-div{
+  max-width: 65%;
+  margin: 40px auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#img-caption {
+  text-align: center;
+  margin: 10px auto;
+}
+
+#tribute-info {
+  margin: 40px auto;
+}
+
+li {
+  list-style-type: none;
+  margin: 25px auto;
+}
+
+a{
+  color: #fc3d21;
+  text-decoration: none;
+}
